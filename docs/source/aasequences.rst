@@ -349,7 +349,8 @@ Afterwards, the ``example.fasta`` file can be read again from the disk:
           print (e.identifier, e.sequence)
 
 .. image:: ./img/launch_binder.jpg
-   :width: 400
+   :width: 150px
+   :align: right
    :class: ignore
    :target: https://mybinder.org/v2/gh/OpenMS/pyopenms-extra/master+ipynb?urlpath=lab/tree/docs/source/aasequences.ipynb
    :alt: Launch Binder

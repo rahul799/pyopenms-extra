@@ -2,7 +2,7 @@ name: Test code in notebooks
 
 on:
   push:
-    branches: [ master+ipynb ]
+    branches: [ masteripynb2 ]
 
 jobs:
 
